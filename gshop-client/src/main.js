@@ -11,7 +11,7 @@ import './common/mui/css/mui.css'
 import './common/icon/icons.css'
 
 // 引入reset.css格式化样式文件
-import '../static/css/reset.css'
+import './common/reset.css'
 
 // 引入MintUI组件库
 import MintUI from 'mint-ui'
